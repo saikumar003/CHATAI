@@ -1,8 +1,3 @@
-# MultiPDF Chat App with Conversation Memory
----
-:rocket: Hosted Link - https://web-chatai.streamlit.app/
-
----
 
 ## Introduction
 ------------
